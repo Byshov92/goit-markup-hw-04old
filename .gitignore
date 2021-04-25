@@ -1,4 +1,8 @@
 # Logs
+.vscode
+.idea
+.DS_Store
+*.psd
 logs
 *.log
 npm-debug.log*
